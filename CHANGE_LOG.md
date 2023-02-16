@@ -2,6 +2,12 @@
 
 Provides more indepth information on what has been changed throughout **Timeless and Classics Guns** or **TaC-G**, although there is no gurantee if more has been changed from preiod to period compared to what is stated here.
 
+**[1.16.5-0.3.5.1 -> 1.16.5-0.3.5.2] - 2/16/2023**
+- Fixes the common LAN problems, compatability is now considered high, but bugs may still be present. Report any findings for further development
+- Fixes the workbench forge tags handling
+- Fixes firemode handling along with fixing the saftey disable option in COMMON config
+- Fixes smaller issues here and there for quality of life and performance
+
 **[1.16.5-0.2.1 -> 1.16.5-0.3.5.1] - 2/10/2023**
 - Replaces all weapons, model and data, along with adding new guns and scopes
 - Implements firearm animation system V1, along with every gun gaining their own animations for reloading, draw, and inspect
