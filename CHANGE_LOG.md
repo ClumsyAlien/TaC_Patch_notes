@@ -2,6 +2,11 @@
 
 Provides more indepth information on what has been changed throughout **Timeless and Classics Guns** or **TaC-G**, although there is no gurantee if more has been changed from preiod to period compared to what is stated here.
 
+**[1.16.5-0.3.5.2 -> 1.16.5-0.3.5.3] - 3/07/2023**
+- Attempts to fix ESSENTIAL server compatability
+- Fixes crafting serialization for high counts above the Byte limit
+- Messes with Saftey Customization systems 
+
 **[1.16.5-0.3.5.1 -> 1.16.5-0.3.5.2] - 2/16/2023**
 - Fixes the common LAN problems, compatability is now considered high, but bugs may still be present. Report any findings for further development
 - Fixes the workbench forge tags handling
